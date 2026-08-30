@@ -1,9 +1,7 @@
 {
-  "recommendations": [
-    "charliermarsh.ruff",
-    "ms-python.python",
-    "ms-python.vscode-pylance",
-    "ms-python.mypy-type-checker",
-    "editorconfig.editorconfig"
-  ]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
